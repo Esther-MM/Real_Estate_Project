@@ -59,7 +59,7 @@ and visualizing prediction performance and residuals for deeper insights.
 ---
 
 ## 🔗 View Project
-- 📌 [Notebook on GitHub](#)
+- 📌 [Notebook on GitHub]([#](https://github.com/Esther-MM/Real_Estate_Project/blob/main/Model/Real_Estate_Price_Prediction_Project.ipynb))
 - 🌐 [Portfolio Link](https://www.datascienceportfol.io/EstherMwangi)
 - 💼 [Connect with me on LinkedIn]([#](http://linkedin.com/in/esther-mamtoshu-520595119))
 
