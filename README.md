@@ -6,9 +6,7 @@ adding regularized models (Ridge Regression), and visualizing prediction perform
 
 ---
 
-## 🔍 Key Enhancements
-
-### 🧪 Exploratory Data Analysis (EDA)
+### Exploratory Data Analysis (EDA)
 - **Correlation Heatmap** to assess multicollinearity between variables (e.g., bedrooms and bathrooms highly correlated).
 - **Boxplots**:
   - Price per square foot by bedroom count
@@ -43,8 +41,12 @@ adding regularized models (Ridge Regression), and visualizing prediction perform
 ---
 
 ## 📁 File Structure
-- `Real_Estate_EDA_Modeling.ipynb`: Full notebook with step-by-step code, commentary, and visuals
-- `Real_Estate_Data.csv`: Dataset used for this project (you can provide a dummy dataset or link to source)
+- `Real_Estate_Price_Prediction_Model.csv`: Full notebook with step-by-step code, commentary, and visuals
+- `Real_Estate_Data.csv`: Dataset used for this project
+- `models_columns.json` : Contains the models columns
+- `Price_Prediction_Model.pickle` : contains the model used for deployment
+- `server.py` : Handles API routes for location names and price prediction
+- `util.py` : Includes logic for loading saved model artifacts and estimating price
 
 
 ---
