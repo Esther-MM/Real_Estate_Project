@@ -59,13 +59,13 @@ adding regularized models (Ridge Regression), and visualizing prediction perform
 ---
 
 ## 🔗 View Project
-- 📌 [Notebook on GitHub](#)
-- 🌐 [Portfolio Link](#)
-- 💼 [Connect with me on LinkedIn](#)
+- 📌 [Notebook on GitHub](https://github.com/Esther-MM/Real_Estate_Project/blob/main/Model/Real_Estate_Price_Prediction_Project.ipynb)
+- 🌐 [Portfolio Link](https://www.datascienceportfol.io/EstherMwangi)
+- 💼 [Connect with me on LinkedIn](http://linkedin.com/in/esther-mamtoshu-520595119)
 
 ---
 
 ## 👩🏾‍💻 Author
 **Esther Mamtoshu**  
-Senior Data Analyst | Data Storyteller | ML Enthusiast  
-🔗 [LinkedIn](#) | 🌐 [Portfolio](#)
+Senior Data Analyst | Data Scientist | Data Storyteller | ML Enthusiast  
+🔗 [LinkedIn](http://linkedin.com/in/esther-mamtoshu-520595119) | 🌐 [Portfolio](https://www.datascienceportfol.io/EstherMwangi)
