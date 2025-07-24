@@ -69,3 +69,7 @@ adding regularized models (Ridge Regression), and visualizing prediction perform
 **Esther Mamtoshu**  
 Senior Data Analyst | Data Scientist | Data Storyteller | ML Enthusiast  
 🔗 [LinkedIn](http://linkedin.com/in/esther-mamtoshu-520595119) | 🌐 [Portfolio](https://www.datascienceportfol.io/EstherMwangi)
+
+
+## Acknowledgments
+The project above is adapted from a youtube tutorial by codebasics on Data Science & Machine Learning. Modifications were made to suit the context of this price prediction project and to also make it mine.
