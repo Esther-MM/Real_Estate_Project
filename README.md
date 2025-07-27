@@ -60,7 +60,7 @@ and visualizing prediction performance and residuals for deeper insights.
 - The importance of **residual analysis** and **model evaluation** beyond just metrics
 - The power of **EDA in shaping model decisions** and **communicating findings**
 - Creating a sample web interface
-- DEployment
+- Deployment
 
 ---
 
