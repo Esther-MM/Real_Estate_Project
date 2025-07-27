@@ -49,7 +49,7 @@ and visualizing prediction performance and residuals for deeper insights.
 - `Price_Prediction_Model` : Linear regression model
 - `server.py`: Contains Flask routes to handle API requests for location data and price prediction.
 - `util.py`: Loads model artifacts and provides functions for estimating property prices.
-- app.html`: The main HTML page that serves the user interface.
+- `app.html`: The main HTML page that serves the user interface.
 - `app.css` : Stylesheet for styling the HTML elements.
 - `app.js` : JavaScript that handles API calls and DOM interactions.
 
@@ -71,13 +71,13 @@ and visualizing prediction performance and residuals for deeper insights.
 
 ---
 
-## 🙏 Credits
-
-This project is adapted from a youtube tutorial by codebasics on Machine Learning. Modifications were made on this project to make it mine.
-
----
-
 ## 👩🏾‍💻 Author
 **Esther Mamtoshu**  
 Senior Data Analyst | Data Scientist | Data Storyteller | ML Enthusiast  
 🔗 [LinkedIn](http://linkedin.com/in/esther-mamtoshu-520595119) | 🌐 [Portfolio](https://www.datascienceportfol.io/EstherMwangi)
+
+--
+
+Credits
+
+This project is adapted from a youtube tutorial by codebasics on Machine Learning. Modifications were made on this project to make it mine.
