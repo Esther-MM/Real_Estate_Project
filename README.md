@@ -74,7 +74,7 @@ and visualizing prediction performance and residuals for deeper insights.
 ## 👩🏾‍💻 Author
 **Esther Mamtoshu**  
 Senior Data Analyst | Data Scientist | Data Storyteller | ML Enthusiast  
-🔗 [LinkedIn](http://linkedin.com/in/esther-mamtoshu-520595119)
+🔗 [LinkedIn](http://linkedin.com/in/esther-mamtoshu-520595119)  
 🌐 [Portfolio](https://www.datascienceportfol.io/EstherMwangi)
 
 ---
