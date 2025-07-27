@@ -1,4 +1,4 @@
-# 🏡 Real Estate Price Prediction with EDA & Ridge Regression
+# 🏡 Real Estate Price Prediction
 
 ## 📌 Overview
 This project explores house price prediction using housing data. While inspired by a YouTube tutorial, I personalized the project by enhancing the exploratory data analysis (EDA), adding regularized models (Ridge Regression), 
@@ -76,8 +76,7 @@ and visualizing prediction performance and residuals for deeper insights.
 Senior Data Analyst | Data Scientist | Data Storyteller | ML Enthusiast  
 🔗 [LinkedIn](http://linkedin.com/in/esther-mamtoshu-520595119) | 🌐 [Portfolio](https://www.datascienceportfol.io/EstherMwangi)
 
---
+---
 
 Credits
-
 This project is adapted from a youtube tutorial by codebasics on Machine Learning. Modifications were made on this project to make it mine.
