@@ -6,9 +6,9 @@ and visualizing prediction performance and residuals for deeper insights.
 
 ---
 
-## 🔍 Key Enhancements
+## Key Enhancements
 
-### 🧪 Exploratory Data Analysis (EDA)
+### Exploratory Data Analysis (EDA)
 - **Correlation Heatmap** to assess multicollinearity between variables (e.g., bedrooms and bathrooms highly correlated).
 - **Boxplots**:
   - Price per square foot by bedroom count
@@ -16,11 +16,11 @@ and visualizing prediction performance and residuals for deeper insights.
 - **Scatter Plot**:
   - Total square feet vs. Price, highlighting positive correlation and outliers
 
-### 🤖 Modeling
+### Modeling
 - **Linear Regression** (Baseline)
 - **Ridge Regression** to mitigate multicollinearity and prevent overfitting
 
-### 📊 Visual Diagnostics
+### Visual Diagnostics
 - **Prediction vs Actual Plot**: Assessed how well the model generalizes
 - **Residual Plot**: Evaluated error patterns and model bias
 
@@ -55,7 +55,7 @@ and visualizing prediction performance and residuals for deeper insights.
 
 ---
 
-## ✨ What I Learned
+## What I Learned
 - How to make a tutorial project uniquely mine by customizing analysis and interpretation
 - The importance of **residual analysis** and **model evaluation** beyond just metrics
 - The power of **EDA in shaping model decisions** and **communicating findings**
@@ -65,7 +65,7 @@ and visualizing prediction performance and residuals for deeper insights.
 ---
 
 ## 🔗 View Project
-- 📌 [Notebook on GitHub](#)
+- 📌 [Notebook on GitHub](https://github.com/Esther-MM/Real_Estate_Project)
 - 🌐 [Portfolio Link](https://www.datascienceportfol.io/EstherMwangi)
 - 💼 [Connect with me on LinkedIn](http://linkedin.com/in/esther-mamtoshu-520595119)
 
@@ -73,7 +73,7 @@ and visualizing prediction performance and residuals for deeper insights.
 
 ## 🙏 Credits
 
-This project is adapted from a . Minor customizations have been made to fit this project.
+This project is adapted from a youtube tutorial by codebasics on Machine Learning. Modifications were made on this project to make it mine.
 
 ---
 
