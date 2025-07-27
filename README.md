@@ -78,6 +78,6 @@ Senior Data Analyst | Data Scientist | Data Storyteller | ML Enthusiast
 
 ---
 
-Credits
+### Credits
 
 This project is adapted from a youtube tutorial by codebasics on Machine Learning. Modifications were made on this project to make it mine.
