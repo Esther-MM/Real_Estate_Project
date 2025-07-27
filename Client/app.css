@@ -1,0 +1,133 @@
+/* Use Times New Roman for all text and set page background */
+body, html {
+  height: 100%;
+  margin: 0;
+  font-family: "Times New Roman", serif;
+  background-color: #1e7a8c;
+  color: white;
+}
+
+/* Switch field styling */
+.switch-field {
+  display: flex;
+  margin-bottom: 36px;
+  overflow: hidden;
+}
+
+.switch-field input {
+  position: absolute !important;
+  clip: rect(0, 0, 0, 0);
+  height: 1px;
+  width: 1px;
+  border: 0;
+  overflow: hidden;
+}
+
+.switch-field label {
+  background-color: #003d5c;
+  color: white;
+  font-size: 14px;
+  line-height: 1;
+  text-align: center;
+  padding: 8px 16px;
+  margin-right: -1px;
+  border: 1px solid rgba(255, 255, 255, 0.3);
+  box-shadow: inset 0 1px 3px rgba(0, 0, 0, 0.3), 0 1px rgba(255, 255, 255, 0.1);
+  transition: all 0.2s ease-in-out;
+}
+
+.switch-field label:hover {
+  cursor: pointer;
+  background-color: #ff9500;
+}
+
+.switch-field input:checked + label {
+  background-color: #ffdd00;
+  color: #003d5c;
+  box-shadow: none;
+}
+
+.switch-field label:first-of-type {
+  border-radius: 4px 0 0 4px;
+}
+
+.switch-field label:last-of-type {
+  border-radius: 0 4px 4px 0;
+}
+
+/* Form container */
+.form {
+  max-width: 270px;
+  font-weight: normal;
+  line-height: 1.625;
+  margin: 8px auto;
+  padding-left: 16px;
+  z-index: 2;
+  color: white;
+}
+
+/* Heading */
+h2 {
+  font-size: 18px;
+  margin-bottom: 8px;
+  color: #ffdd00;
+}
+
+/* Input styles */
+.area, .location {
+  font-family: "Times New Roman", serif;
+  outline: 0;
+  background: #f5f5dc;
+  width: 76%;
+  border: 1px solid #003d5c;
+  margin: 0 0 10px;
+  padding: 10px;
+  box-sizing: border-box;
+  font-size: 15px;
+  height: 40px;
+  border-radius: 5px;
+  color: #003d5c;
+}
+
+/* Submit button */
+.submit {
+  background: #ff9500;
+  width: 76%;
+  border: none;
+  margin: 25px 0 10px;
+  box-sizing: border-box;
+  font-size: 15px;
+  height: 40px;
+  text-align: center;
+  border-radius: 5px;
+  color: white;
+  font-weight: bold;
+}
+
+.submit:hover {
+  background-color: #ffdd00;
+  color: #003d5c;
+}
+
+/* Result box */
+.result {
+  background: #f5f5dc;
+  width: 76%;
+  border: 1px solid #003d5c;
+  margin: 25px 0 10px;
+  box-sizing: border-box;
+  font-size: 15px;
+  height: 35px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-weight: bold;
+}
+
+.result,
+.result * {
+  color: #000000 !important;
+}
+
+
+
